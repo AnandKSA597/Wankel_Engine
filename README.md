@@ -19,7 +19,7 @@ This repository contains a complete 3D CAD model of a Wankel rotary engine desig
 
 ## 🧰 Software Used
 
-- **SolidWorks** (Recommended version: 2020 or later)
+- **SolidWorks** 
 
 ## 📦 How to Use
 
