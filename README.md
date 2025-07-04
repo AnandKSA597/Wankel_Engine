@@ -1,37 +1,89 @@
-# 🛠️ Wankel Engine CAD Model
+# 🌀 Wankel Engine CAD Project
 
-This repository contains a complete 3D CAD model of a Wankel rotary engine designed using SolidWorks. All individual parts, sub-assemblies, and the final assembly are included along with the 2D drawing.
+A detailed SolidWorks-based 3D model of a **Wankel rotary engine**, showcasing its compact design, unique geometry, and internal motion mechanics. This project includes all individual part files, complete assembly, and technical drawings — ideal for academic reference, mechanical design analysis, or simulation-based applications.
 
-## 📁 Project Structure
+---
 
-- `.SLDPRT` — Individual part files (rotor, shaft, spark plug parts, blockplates, etc.)
-- `.SLDASM` — Assembly files (including final and intermediate assemblies)
-- `.SLDDRW` — 2D technical drawing of the complete assembly
+## 📁 Repository Contents
 
-## 🧩 Key Components
+| File Type        | Description                                       |
+|------------------|---------------------------------------------------|
+| `.SLDPRT`         | All individual component models                   |
+| `.SLDASM`         | Complete and sub-assembly files                   |
+| `.SLDDRW`         | 2D technical drawing of the assembled engine      |
 
-- Eccentric Shaft  
-- Front & Centre Blockplates  
-- Spark Plug Assembly (Connector, Electrode, Insulator, Nuts)  
-- Rotor and Housing  
-- Gaskets & Hex Fasteners  
-- Extra supporting components
+---
 
-## 🧰 Software Used
+## 🧩 Key Components Modeled
 
-- **SolidWorks** 
+- Rotor and Housing
+- Eccentric Shaft
+- Front, Centre & Rear Blockplates
+- Spark Plug Assembly:
+  - Electrode
+  - Connector
+  - Terminal & Lock Nuts
+  - Gasket, Insulator, Hex Cap
+- Extra Fittings and Fasteners
 
-## 📦 How to Use
+Each part has been designed with dimensional accuracy and proper constraints for full mechanical fitment.
 
-1. Clone or download the repository.
+---
+
+## 🛠️ Tools & Technologies
+
+- **CAD Software:** SolidWorks (Recommended: 2020+)
+- **File Formats:** `.SLDPRT`, `.SLDASM`, `.SLDDRW`
+- **System Requirements:** Moderate-spec PC with SolidWorks installed
+
+---
+
+## 🚀 How to Run / View
+
+1. Clone or download this repository.
 2. Open `Wankel Engine.SLDASM` in SolidWorks.
-3. Make sure all part files are in the same directory or correctly referenced.
-4. View or edit the 2D drawing via `Wankel Engine.SLDDRW`.
+3. Ensure all `.SLDPRT` files are located in the same directory.
+4. For 2D references, open `Wankel Engine.SLDDRW`.
+
+> 💡 Tip: Use the "Exploded View" or "Motion Study" in SolidWorks to visualize the internal functioning of the engine.
+
+---
+
+## 🎓 Educational Use
+
+This project was developed as part of a **Mechanical Design project** to explore:
+
+- The unique working principle of rotary engines
+- Compact powertrain architecture
+- CAD-based modeling and assembly practices
+
+It can serve as a reference for:
+- Machine Design coursework
+- Dynamic simulation projects
+- Engineering presentations or reports
+
+---
 
 ## 📸 Preview
 
-*(Insert a screenshot or rendering of the assembly here)*
+*(Include rendered image or exploded view here)*  
+*You can add a `.PNG`/`.JPG` screenshot or even a `.GIF` animation of your CAD assembly.*
 
-## 🎯 Purpose
+---
 
-This project was created for academic and mechanical design exploration, showcasing the internal structure and mechanics of a Wankel rotary engine.
+## 👨‍🔧 Contributors
+
+- **Anand Arya** – Design, Modeling, and Assembly  
+- *(Add your teammates if applicable)*
+
+---
+
+## 📃 License
+
+This project is open for **educational and non-commercial** use. Attribution required if reused or modified.  
+For commercial inquiries, please contact the repository owner.
+
+---
+
+> 🔁 "The Wankel engine — where power meets precision in every rotation."
+
