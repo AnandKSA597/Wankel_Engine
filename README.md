@@ -38,16 +38,6 @@ Each part has been designed with dimensional accuracy and proper constraints for
 
 ---
 
-## 🚀 How to Run / View
-
-1. Clone or download this repository.
-2. Open `Wankel Engine.SLDASM` in SolidWorks.
-3. Ensure all `.SLDPRT` files are located in the same directory.
-4. For 2D references, open `Wankel Engine.SLDDRW`.
-
-> 💡 Tip: Use the "Exploded View" or "Motion Study" in SolidWorks to visualize the internal functioning of the engine.
-
----
 
 ## 🎓 Educational Use
 
