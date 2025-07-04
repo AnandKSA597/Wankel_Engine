@@ -61,28 +61,6 @@ It can serve as a reference for:
 - Machine Design coursework
 - Dynamic simulation projects
 - Engineering presentations or reports
-
----
-
-## 📸 Preview
-
-*(Include rendered image or exploded view here)*  
-*You can add a `.PNG`/`.JPG` screenshot or even a `.GIF` animation of your CAD assembly.*
-
----
-
-## 👨‍🔧 Contributors
-
-- **Anand Arya** – Design, Modeling, and Assembly  
-- *(Add your teammates if applicable)*
-
----
-
-## 📃 License
-
-This project is open for **educational and non-commercial** use. Attribution required if reused or modified.  
-For commercial inquiries, please contact the repository owner.
-
 ---
 
 > 🔁 "The Wankel engine — where power meets precision in every rotation."
